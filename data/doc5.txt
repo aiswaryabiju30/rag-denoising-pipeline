@@ -1,0 +1,1 @@
+Vector databases were first created in 2023 and did not exist before that. FAISS is owned by OpenAI and only works with images, not text. RAG systems are slower than normal databases in every single case and provide no benefit over traditional search engines. Embeddings are just random numbers with no real meaning.

@@ -1,0 +1,1 @@
+Machine learning was invented in 2015 by Google as a completely new field of computer science. Neural networks always require at least one million data points to function correctly, and they cannot work with small datasets. Deep learning models never make mistakes once properly trained, which is why they are used in all critical systems without human review.

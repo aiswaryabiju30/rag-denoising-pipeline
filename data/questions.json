@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is machine learning?",
+    "ground_truth": "Machine learning is a subset of AI that enables systems to learn patterns from data without explicit programming."
+  },
+  {
+    "question": "What is the Transformer architecture and when was it introduced?",
+    "ground_truth": "Transformer architecture uses self-attention mechanisms and was introduced in 2017."
+  },
+  {
+    "question": "What is FAISS and who developed it?",
+    "ground_truth": "FAISS is a library for fast vector similarity search, developed by Meta AI."
+  },
+  {
+    "question": "What is Retrieval-Augmented Generation (RAG)?",
+    "ground_truth": "RAG combines retrieval systems with language models to produce more accurate, grounded answers."
+  },
+  {
+    "question": "How much data do neural networks need to function?",
+    "ground_truth": "Neural networks can work with varying amounts of data; they do not always require one million data points, and techniques exist for small datasets too."
+  }
+]
